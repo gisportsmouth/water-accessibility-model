@@ -1,0 +1,22 @@
+name: village_access
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14
+  - pandas
+  - geopandas
+  - rasterio
+  - shapely
+  - pyproj
+  - fiona
+  - matplotlib
+  - networkx
+  - reportlab
+  - ipykernel
+  - notebook
+  - pyrosm
+  - xarray
+  - planetary-computer
+  - pystac-client
+  - rioxarray
+prefix: C:\ProgramData\miniforge3\envs\village_access
